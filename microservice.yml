@@ -1,0 +1,7 @@
+omg: 1
+commands:
+  stringify:
+    arguments:
+      content:
+        type: any
+        required: true
