@@ -5,3 +5,8 @@ commands:
       content:
         type: any
         required: true
+  parse:
+    arguments:
+      content:
+        type: string
+        required: true
