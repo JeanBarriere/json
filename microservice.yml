@@ -1,5 +1,5 @@
 omg: 1
-commands:
+actions:
   stringify:
     arguments:
       content:
