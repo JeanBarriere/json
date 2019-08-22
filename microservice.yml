@@ -3,10 +3,14 @@ actions:
   stringify:
     arguments:
       content:
-        type: any
+        type: map
         required: true
+    output:
+      type: string
   parse:
     arguments:
       content:
         type: string
         required: true
+    output:
+      type: map
